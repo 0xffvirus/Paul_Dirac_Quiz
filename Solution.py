@@ -17,6 +17,6 @@ for i in range(len(x)):
         print(f"remains {int(remain1)},{int(remain2)},{int(remain3)}")
         answers += 1
 
-# final equation = (25 + 27*i)
+# final equation = (25 + 27*i) where i = 0,1,2,3,4,....
 # we can replace 4,5 lines with the final equasion and it will give us the same result
 
